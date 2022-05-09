@@ -1,0 +1,9 @@
+
+    Directory: C:\Git\Teste
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          09/05/2022    17:08              0 chibubbles.txt
+-a---          09/05/2022    17:09              0 qualquercoisa.txt
+-a---          09/05/2022    17:08              7 README.md
+
